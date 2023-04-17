@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/horizontal_scroll_gallery/static/css/main.d8cc82d4.css",
+    "main.js": "/horizontal_scroll_gallery/static/js/main.72368249.js",
+    "index.html": "/horizontal_scroll_gallery/index.html",
+    "main.d8cc82d4.css.map": "/horizontal_scroll_gallery/static/css/main.d8cc82d4.css.map",
+    "main.72368249.js.map": "/horizontal_scroll_gallery/static/js/main.72368249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8cc82d4.css",
+    "static/js/main.72368249.js"
+  ]
+}
